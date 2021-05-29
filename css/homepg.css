@@ -1,0 +1,45 @@
+p{
+  line-height: 2;
+}
+
+hr{
+  border: dotted #EAF6F6 4px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+  opacity: .36;
+
+}
+a{
+  text-decoration: none;
+  color: #EAF6F6;
+}
+
+
+.marginj {
+  padding-top: 15rem;
+  padding-left:3rem ;
+  padding-right: 3rem;
+
+}
+
+.fote{
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+.bottom-container{
+
+  background-color: #c1c1c1;
+  align: center;
+}
+.foot-container{
+  background-color: #606470;
+  text-align: center;
+  align-content: center;
+}
+
+
+#content{
+  font-family: var(--bs-font-sans-serif);
+}

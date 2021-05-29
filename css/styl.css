@@ -1,0 +1,21 @@
+.navbar-nav > li{
+  padding-left:1rem;
+  padding-right:1.5rem;
+}
+
+
+.dash-head {
+  margin-top: 12rem;
+
+}
+
+a{
+  text-decoration: none;
+  color: #EAF6F6;
+}
+
+.foot-container{
+  background-color: #606470;
+  text-align: center;
+  align-content: center;
+}
